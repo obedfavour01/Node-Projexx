@@ -1,0 +1,8 @@
+
+{"level":"error","message":" E don be , wahala don happen","service":"user-service"}
+{"level":"error","message":"Fatal Error jwt private key is not defined","service":"user-service"}
+{"level":"\u001b[31merror\u001b[39m","message":"Fatal Error jwt private key is not defined","service":"user-service"}
+{"level":"\u001b[31merror\u001b[39m","message":"Fatal Error jwt private key is not defined","service":"user-service"}
+ [LOGGER]  23-08-17 19:32:46  [31m[31merror[31m[39m : [31mFatal Error jwt private key is not defined[39m
+ [LOGGER]  23-08-22 17:48:16  [31m[31merror[31m[39m : [31mFatal Error jwt private key is not defined[39m
+ [LOGGER]  23-08-22 17:49:03  [31m[31merror[31m[39m : [31mFatal Error jwt private key is not defined[39m

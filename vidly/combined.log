@@ -1,0 +1,12 @@
+ [LOGGER]  23-08-22 17:48:16  [31m[31merror[31m[39m : [31mFatal Error jwt private key is not defined[39m
+ [LOGGER]  23-08-22 17:49:03  [31m[31merror[31m[39m : [31mFatal Error jwt private key is not defined[39m
+ [LOGGER]  23-08-22 17:52:49  [32m[32minfo[32m[39m : [32mlistening on port 4000[39m
+ [LOGGER]  23-08-22 17:52:49  [32m[32minfo[32m[39m : [32mconnected to mongodb://localhost/vidly-app..[39m
+ [LOGGER]  23-08-22 17:54:34  [32m[32minfo[32m[39m : [32mlistening on port 4000[39m
+ [LOGGER]  23-08-22 17:54:34  [32m[32minfo[32m[39m : [32mconnected to mongodb://localhost/vidly-app..[39m
+ [LOGGER]  23-08-22 17:56:26  [32m[32minfo[32m[39m : [32mlistening on port 4000[39m
+ [LOGGER]  23-08-22 17:56:26  [32m[32minfo[32m[39m : [32mconnected to mongodb://localhost/vidly_tests..[39m
+ [LOGGER]  23-08-23 05:50:33  [32m[32minfo[32m[39m : [32m[32m[32minfo[32m[32m[39m
+ [LOGGER]  23-08-23 05:50:33  [32m[32minfo[32m[39m : [32mlistening on port 4000[39m
+ [LOGGER]  23-08-23 05:50:33  [32m[32minfo[32m[39m : [32mconnected to mongodb://localhost/vidly_tests..[39m
+ [LOGGER]  23-08-23 11:04:01  [32m[32minfo[32m[39m : [32m[32m[32minfo[32m[32m[39m
