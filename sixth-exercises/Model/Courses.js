@@ -78,7 +78,7 @@ export async function updateCourse(id){
         author: "Not my business"
     })
 
-    const result = await course.save()
+    const result = await course.save();
     console.log(result)
 }
 
